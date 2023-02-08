@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Movie recommendation application**
 
-- 🌱 I’m currently learning **NoSQL, MongoDb, flask**
+- 🌱 I’m currently learning **SQLite, MVC, flask**
 
 - 📫 How to reach me **raviteja5211@gmail.com**
 
