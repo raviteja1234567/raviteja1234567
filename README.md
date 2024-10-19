@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raviteja1234567&label=Profile%20views&color=0e75b6&style=flat" alt="raviteja1234567" /> </p>
 
-- 🔭 I’m currently working on **Movie recommendation application**
+- 🔭 Looking for full-time oppertunities :)
 
-- 🌱 I’m currently learning **SQLite, MVC, flask**
+- 🌱 Working on some interesting open-source SDKs
 
 - 📫 How to reach me **raviteja5211@gmail.com**
 
